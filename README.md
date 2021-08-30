@@ -1,4 +1,6 @@
 ﻿# 3pHLA-score: improved structure-based peptide-HLA binding affinity prediction
+ 
+ ![3pHLA-score and other scoring protocols visualized](https://github.com/KavrakiLab/3pHLA-score/FigMethods.png?raw=true)
 
 **Motivation:** Binding affinity prediction of peptide-ligands to Human Leukocyte Antigen (HLA) receptors is an important step in immunotherapy research. Binding of peptides to HLAs is a prerequisite for triggering immune response and therefore crucial for peptide target identification and epitope discovery pipelines, which can be optimized with computational methods. Currently, most computational methods are limited because they rely exclusively on sequence-based data. To overcome this limitation, we propose a novel protocol for using peptide-HLA (pHLA) structures to predict the binding affinity of peptides to HLAs.
 
