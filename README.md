@@ -1,7 +1,11 @@
 ﻿# 3pHLA-score: improved structure-based peptide-HLA binding affinity prediction
 
 **Motivation:** Binding affinity prediction of peptide-ligands to Human Leukocyte Antigen (HLA) receptors is an important step in immunotherapy research. Binding of peptides to HLAs is a prerequisite for triggering immune response and therefore crucial for peptide target identification and epitope discovery pipelines, which can be optimized with computational methods. Currently, most computational methods are limited because they rely exclusively on sequence-based data. To overcome this limitation, we propose a novel protocol for using peptide-HLA (pHLA) structures to predict the binding affinity of peptides to HLAs.
+
+
 **Results:** We apply a non-linear per-peptide-position structure-based training approach to the Rosetta ref2015 scoring function towards the development of a custom score that we call 3pHLA-score. We train 28 per-allele Random Forest Regression models on 77,581 modeled pHLA structures. The 3pHLA-score outperforms widely used scoring functions (AutoDock, Vina, Dope, Vinardo, FoldX, GradDock) in a structural virtual screening task, and shows the ability to generalize well. Finally, the proposed approach outperforms the standard tuning of docking scoring functions on the pHLA system.
+
+
 **Repo:** In this repo we provide the code used to run the experiments and training as well as trained models which constitute the 3pHLA-score.
 
 ## Code for experiments provided
