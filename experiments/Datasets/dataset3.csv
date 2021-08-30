@@ -1,0 +1,83 @@
+pdb_code,complex_number,alt_conf,fname,peptide,resolution,BA
+3QFD,2,b,3QFD-2b_complex.pdb,AAGIGILTV, 1.68,395
+4E5X,1,a,4E5X-1_complex.pdb,LLFGYPVYV, 1.95,3.8
+2X4U,2,a,2X4U-2_complex.pdb,ILKEPVHGV, 2.1,192.3
+2AV1,2,a,2AV1-2_complex.pdb,LLFGYPVYV, 1.95,3.8
+5IRO,2,a,5IRO-2O_complex.pdb,LLFGYPVYV, 2.64,3.8
+NA6P,1,a,NA6P_complex.pdb,ETLNEYKQL,-,>70000
+2GT9,2,a,2GT9-2_complex.pdb,EAAGIGILTV,1.75,14560
+4FTV,1,a,4FTV-1_complex.pdb,LLFGYPVYV, 2.74,3.8
+2AV1,1,a,2AV1-1_complex.pdb,LLFGYPVYV, 1.95,3.8
+4E5X,2,a,4E5X-2_complex.pdb,LLFGYPVYV, 1.95,3.8
+2X4U,1,a,2X4U-1a_complex.pdb,ILKEPVHGV, 2.1,192.3
+3MRG,1,a,3MRG-1a_complex.pdb,CINGVCWTV,1.3,55
+2BNR,1,a,2BNR-1_complex.pdb,SLLMWITQC, 1.9,21070
+1DUZ,2,a,1DUZ-2_complex.pdb,LLFGYPVYV, 1.8,3.8
+1S9W,1,a,1S9W-1_complex.pdb,SLLMWITQC,2.2,21070
+4QOK,1,a,4QOK-1_complex.pdb,EAAGIGILTV, 3,14560
+2F53,1,a,2F53-1_complex.pdb,SLLMWITQC, 2.1,21070
+1HHK,1,a,1HHK-1_complex.pdb,LLFGYPVYV,2.5,3.8
+2J8U,1,a,2J8U-1_complex.pdb,ALWGFFPVL, 2.88,2.7
+3OX8,1,a,3OX8-1_complex.pdb,FLPSDFFPSV, 2.16,0.57
+5IRO,3,a,5IRO-3O_complex.pdb,LLFGYPVYV, 2.64,3.8
+1HHH,1,a,1HHH-1_complex.pdb,FLPSDFFPSV,3,0.57
+1DUZ,1,a,1DUZ-1_complex.pdb,LLFGYPVYV, 1.8,3.8
+NG7L,1,a,NG7L_complex.pdb,AAEQRRSTI,-,>70000
+3QFD,1,a,3QFD-1_complex.pdb,AAGIGILTV, 1.68,395
+4NO5,1,a,4NO5-1_complex.pdb,RQISQDVKL,2.1,1925
+3DMM,1,a,3DMM-1_complex.pdb,RGPGRAFVTI, 2.6,4600
+2P5E,1,b,2P5E-1b_complex.pdb,SLLMWITQC, 1.89,21070
+1HHK,2,a,1HHK-2_complex.pdb,LLFGYPVYV,2.5,3.8
+3QEQ,1,a,3QEQ-1_complex.pdb,AAGIGILTV, 2.6,395
+3QFD,2,a,3QFD-2a_complex.pdb,AAGIGILTV, 1.68,395
+5IRO,5,a,5IRO-5O_complex.pdb,LLFGYPVYV, 2.64,3.8
+2GUO,2,b,2GUO-2b_complex.pdb,AAGIGILTV,1.9,395
+2UWE,2,a,2UWE-2_complex.pdb,ALWGFFPVL, 2.4,2.7
+3QDJ,1,a,3QDJ-1_complex.pdb,AAGIGILTV, 2.3,395
+1B0G,2,a,1B0G-2_complex.pdb,ALWGFFPVL,2.5,2.7
+2PYE,1,a,2PYE-1_complex.pdb,SLLMWITQC, 2.3,21070
+1HHJ,1,a,1HHJ-1_complex.pdb,ILKEPVHGV,2.5,192.3
+1HHJ,2,a,1HHJ-2_complex.pdb,ILKEPVHGV,2.5,192.3
+5IVX,1,a,5IVX-1_complex.pdb,RGPGRAFVTI, 2.1,4600
+2P5E,1,a,2P5E-1a_complex.pdb,SLLMWITQC, 1.89,21070
+1DDH,1,a,1DDH-1_complex.pdb,RGPGRAFVTI, 3.1,4600
+3OXS,1,a,3OXS-1_complex.pdb,FLPSDFFPSV, 1.75,0.57
+1P7Q,1,a,1P7Q-1_complex.pdb,ILKEPVHGV, 3.4,192.3
+2AV7,2,a,2AV7-2_complex.pdb,LLFGYPVYV, 2.05,3.8
+5IRO,4,a,5IRO-4O_complex.pdb,LLFGYPVYV, 2.64,3.8
+1B0G,1,a,1B0G-1_complex.pdb,ALWGFFPVL,2.5,2.7
+2JCC,1,a,2JCC-1_complex.pdb,ALWGFFPVL, 2.5,2.7
+1LP9,2,a,1LP9-2_complex.pdb,ALWGFFPVL, 2,2.7
+3MRG,1,b,3MRG-1b_complex.pdb,CINGVCWTV,1.3,55
+1IM3,4,a,1IM3-4_complex.pdb,LLFGYPVYV, 2.2,3.8
+1LP9,1,a,1LP9-1_complex.pdb,ALWGFFPVL, 2,2.7
+1QO3,1,a,1QO3-1_complex.pdb,RGPGRAFVTI, 2.3,4600
+2AV7,1,a,2AV7-1_complex.pdb,LLFGYPVYV, 2.05,3.8
+3IXA,2,a,3IXA-2_complex.pdb,LLFGYPVYV, 2.1,3.8
+3IXA,1,a,3IXA-1_complex.pdb,LLFGYPVYV, 2.1,3.8
+3FT4,1,a,3FT4-1_complex.pdb,VLRDDLLEA,1.9,365
+3OX8,2,a,3OX8-2_complex.pdb,FLPSDFFPSV, 2.16,0.57
+1IM3,1,a,1IM3-1_complex.pdb,LLFGYPVYV, 2.2,3.8
+2GUO,2,a,2GUO-2a_complex.pdb,AAGIGILTV,1.9,395
+NIMV,1,a,NIMV_complex.pdb,ATKRYPGVM,-,>70000
+2JCC,2,a,2JCC-2_complex.pdb,ALWGFFPVL, 2.5,2.7
+1BII,1,a,1BII-1_complex.pdb,RGPGRAFVTI, 2.4,4600
+NG5R,1,a,NG5R_complex.pdb,EIDVSEVKT,-,>70000
+1IM3,3,a,1IM3-3_complex.pdb,LLFGYPVYV, 2.2,3.8
+3ECB,1,a,3ECB-1O_complex.pdb,RGPGRAFVTI,1.7,4600
+1IM3,2,a,1IM3-2_complex.pdb,LLFGYPVYV, 2.2,3.8
+2UWE,1,a,2UWE-1_complex.pdb,ALWGFFPVL, 2.4,2.7
+NEEV,1,a,NEEV_complex.pdb,DAKRNSKSL,-,>70000
+1AO7,1,a,1AO7-1_complex.pdb,LLFGYPVYV, 2.6,3.8
+2X4U,1,b,2X4U-1b_complex.pdb,ILKEPVHGV, 2.1,192.3
+1BD2,1,a,1BD2-1_complex.pdb,LLFGYPVYV, 2.5,3.8
+2J8U,2,a,2J8U-2_complex.pdb,ALWGFFPVL, 2.88,2.7
+2GT9,1,a,2GT9-1_complex.pdb,EAAGIGILTV,1.75,14560
+3OXR,1,a,3OXR-1_complex.pdb,FLPSDFFPSV, 1.7,0.57
+1AKJ,1,a,1AKJ-1_complex.pdb,ILKEPVHGV, 2.65,192.3
+2F54,2,a,2F54-2_complex.pdb,SLLMWITQC, 2.7,21070
+5IRO,6,a,5IRO-6O_complex.pdb,LLFGYPVYV, 2.64,3.8
+2GUO,1,a,2GUO-1_complex.pdb,AAGIGILTV,1.9,395
+5IRO,1,a,5IRO-1O_complex.pdb,LLFGYPVYV, 2.64,3.8
+2P5W,1,a,2P5W-1_complex.pdb,SLLMWITQC, 2.2,21070
+2F54,1,a,2F54-1_complex.pdb,SLLMWITQC, 2.7,21070
