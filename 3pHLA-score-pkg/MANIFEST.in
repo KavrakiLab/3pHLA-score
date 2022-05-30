@@ -1,0 +1,2 @@
+include score3pHLA/3pHLAmodels/*.pkl
+include score3pHLA/*.pdb
