@@ -88,4 +88,19 @@ It contains the trained models in the directory final_REGRmodels.
 **.\experiments\Experiment3 - crystal structures etc** contains the code used for running the second validation experiment with a dataset of crystal structures and Docktope models, as well as related results and figures.
 
 
+## Cite this work
+```
+@article{Conev2022,
+  doi = {10.1038/s41598-022-14526-x},
+  url = {https://doi.org/10.1038/s41598-022-14526-x},
+  year = {2022},
+  month = jun,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {12},
+  number = {1},
+  author = {Anja Conev and Didier Devaurs and Mauricio Menegatti Rigo and Dinler Amaral Antunes and Lydia E. Kavraki},
+  title = {3pHLA-score improves structure-based peptide-{HLA} binding affinity prediction},
+  journal = {Scientific Reports}
+}
+```
 
